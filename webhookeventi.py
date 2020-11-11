@@ -3,7 +3,7 @@ from dhooks import Webhook, Embed
 
 
 
-hook = Webhook('https://discord.com/api/webhooks/775734656846004245/_JAFxguPEA_ECFvswCYOqyYv5M1gorB_8Hk_UTlZhZB2Egb9WOWqb-tANCgsQWSd-3xH')
+hook = Webhook('inserisci url webhook')
 
 embed = Embed(
 		description='**NUOVO EVENTO** :eyes:\n Serata qso su Discord e Link Radio',
