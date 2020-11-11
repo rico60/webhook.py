@@ -3,7 +3,7 @@ from dhooks import Webhook, Embed
 
 
 
-hook = Webhook('https://discord.com/api/webhooks/774249770130210837/OhYICZEBNUTrx1EhVBax1Tbg4qHp6XUM3R7W0PjgTrJrwXM-E5BcYVAJ0TmIXJTWVIxV')
+hook = Webhook('inserisci url webhook')
 
 
 
